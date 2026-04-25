@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "source_url": "https://www.flipkart.com/apple-iphone-17-pro-silver-256-gb/p/itm106f475c264c7?pid=MOBHFN6YPFSDYRTY&lid=LSTMOBHFN6YPFSDYRTYSCL89I&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJwbXVfdjIiLCJwcnB0IjoiaHAiLCJtaWQiOiJjb250aW51dW0vaHAifQ%3D%3D&pageUID=1777110860582",
+    "canonical_url": "https://www.flipkart.com/apple-iphone-17-pro-silver-256-gb/p/itm106f475c264c7",
+    "meta_title": "Apple iPhone 17 Pro (256 GB Storage) Online at Best Price On Flipkart.com",
+    "meta_description": "Buy Apple iPhone 17 Pro online at best price with offers in India. Apple iPhone 17 Pro (Silver, 256 GB) features and specifications include 256 GB ROM, 48 MP back camera and 18 MP front camera. Compare iPhone 17 Pro by price and performance to shop at Flipkart",
+    "meta_keywords": "Buy iPhone 17 Pro Online, iPhone 17 Pro Price, iPhone 17 Pro Features and Specifications, iPhone 17 Pro Reviews"
+  },
+  "product": {
+    "name": "Apple iPhone 17 Pro (Silver, 256 GB)",
+    "description": "Buy Apple iPhone 17 Pro online at best price with offers in India. Apple iPhone 17 Pro (Silver, 256 GB) features and specifications include 256 GB ROM, 48 MP back camera and 18 MP front camera. Compare iPhone 17 Pro by price and performance to shop at Flipkart",
+    "sku": "MOBHFN6YPFSDYRTY",
+    "color": "Silver",
+    "category": "mobile",
+    "brand": "APPLE",
+    "images": [
+      "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/b/j/o/-original-imahft5nm9eewyzh.jpeg?q=70",
+      "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/k/s/z/-original-imahft5npvyvjyzz.jpeg?q=70",
+      "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/j/x/c/-original-imahft5npy3u7mjx.jpeg?q=70",
+      "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/a/4/h/-original-imahft5nfrrfygbc.jpeg?q=70",
+      "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/x/c/q/-original-imahft5njwbfyz5u.jpeg?q=70"
+    ],
+    "offers": {
+      "price": 134900,
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "shippingRate": {
+          "value": 0,
+          "currency": "INR",
+          "@type": "MonetaryAmount"
+        },
+        "shippingDestination": {
+          "addressCountry": "IN",
+          "@type": "DefinedRegion"
+        },
+        "@type": "OfferShippingDetails"
+      },
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "IN",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted",
+        "description": "Returns are not permitted. We offer a 7 days replacement-only policy.",
+        "@type": "MerchantReturnPolicy"
+      },
+      "@type": "Offer"
+    },
+    "aggregate_rating": {
+      "ratingValue": 4.6,
+      "reviewCount": 83,
+      "ratingCount": 1134,
+      "@type": "AggregateRating"
+    },
+    "reviews": [
+      {
+        "name": "Classy product",
+        "author": {
+          "name": "Akash Lahariya",
+          "@type": "Person"
+        },
+        "datePublished": "2026-03-02",
+        "reviewBody": "Battery is long lasting and 8x Zoom is very awesome loved this feature.\n\nCamera quality sound quality is very nice",
+        "reviewRating": {
+          "ratingValue": 5,
+          "bestRating": 5,
+          "@type": "Rating"
+        },
+        "@type": "Review"
+      },
+      {
+        "name": "Fabulous!",
+        "author": {
+          "name": "faiz ahmad",
+          "@type": "Person"
+        },
+        "datePublished": "2025-12-12",
+        "reviewBody": "I used an iPhone 11 for almost five years, and upgrading to the iPhone 17 Pro feels like a completely new world. The performance jump, the camera quality, and the overall user experience are on another level. Everything feels faster, smoother, and truly premium. This upgrade has been worth every rupee.\n\nIf you want a powerful, premium iPhone that can handle everything from daily use to professional-level photography, the iPhone 17 Pro is a very strong choice.",
+        "reviewRating": {
+          "ratingValue": 5,
+          "bestRating": 5,
+          "@type": "Rating"
+        },
+        "@type": "Review"
+      },
+      {
+        "name": "Mind-blowing purchase",
+        "author": {
+          "name": "SOMANATH  SATAPATHY ",
+          "@type": "Person"
+        },
+        "datePublished": "2025-11-02",
+        "reviewBody": "Great pick ❤️",
+        "reviewRating": {
+          "ratingValue": 5,
+          "bestRating": 5,
+          "@type": "Rating"
+        },
+        "@type": "Review"
+      }
+    ]
+  },
+  "specifications": {},
+  "summary": {
+    "title": "Apple iPhone 17 Pro (Silver, 256 GB)",
+    "price": "Rs. 134,900",
+    "rating_value": 4.6,
+    "rating_count": 1134,
+    "review_count": 83,
+    "availability": "https://schema.org/InStock",
+    "sku": "MOBHFN6YPFSDYRTY",
+    "brand": "APPLE",
+    "color": "Silver",
+    "category": "mobile"
+  }
+}
