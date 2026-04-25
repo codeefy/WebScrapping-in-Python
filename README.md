@@ -1,4 +1,4 @@
-# Flipkart Product Scraper (Python)
+# Flipkart Product Scraper
 
 ## What This Project Does
 This project scrapes product information from a Flipkart product page and saves data in multiple formats.
